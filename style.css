@@ -1,0 +1,33 @@
+
+body{
+    background-color: rgb(32, 32, 32);
+}
+h1 {
+    color: red;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(175, 0, 0);
+    text-align: center;
+}
+
+h3 {
+    color: rgb(184, 28, 28);
+}
+
+p {
+    color: blanchedalmond;
+}
+
+li {
+    color: cadetblue;
+}
+
+a {
+    color: crimson;
+}
+
+img {
+    align-content: center;
+}
